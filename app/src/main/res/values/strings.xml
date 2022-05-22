@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AppBoleto</string>
+    <string-array name="Destinos">
+        <item>Seleccione un destino</item>
+        <item>Culiacán</item>
+        <item>Los Mochis</item>
+        <item>Hermosillo</item>
+        <item>Tijuana</item>
+        <item>Durango</item>
+        <item>Torreón</item>
+        <item>Monterrey</item>
+        <item>Guadalajara</item>
+        <item>Morelia</item>
+        <item>León</item>
+        <item>Querétaro</item>
+        <item>Toluca</item>
+        <item>Ciudad de México</item>
+        <item>Puebla</item>
+        <item>Veracruz</item>
+    </string-array>
+    <string-array name="Tipo">
+        <item>Seleccione un tipo de boleto</item>
+        <item>Sencillo</item>
+        <item>Doble</item>
+    </string-array>
+</resources>
